@@ -4,7 +4,7 @@
 
 ## Dataset
 
-[This dataset](https://www.kaggle.com/new-york-city/nyc-property-sales) consists of information regarding properties sold in New York City over a 12-month period from September 2016 to September 2017. It contains the location, address, type, sale price, and sale date of building units sold. 
+To analyze, I've taken [this dataset](https://www.kaggle.com/new-york-city/nyc-property-sales) that consists of information regarding properties sold in New York City over a 12-month period from September 2016 to September 2017. It contains the location, address, type, sale price, and sale date of building units sold. 
 
 A reference on the trickier fields:
 
